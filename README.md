@@ -20,7 +20,7 @@
 
 [![Almeedus GitHub stats](https://github-readme-stats.vercel.app/api?username=Almeedus)](https://github.com/Almeedus/github-readme-stats)
 
-
+[![Almeedus GitHub stats](https://github-readme-stats.vercel.app/api?username=Almeedus)](https://github.com/Almeedus/github-readme-stats)
 
 
 - Thanks for visiting.
