@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Full-Stack Developer!
+:computer: I'm Back-End Developer!
 
 :house_with_garden: I’m from Brazil.
 
