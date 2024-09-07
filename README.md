@@ -2,7 +2,7 @@
 Sou Eduardo, desenvolvedor focado em backend e análise de dados, um tanto curioso para com outras tecnologias. Louco por um bom livro (recomendo fortemente "A biblioteca dos sonhos secretos", é incrível), músicas brasileiras pouco conhecidas e uns jogos indies.
 
 ## Tecnologias que domino
-### Backend
+### Backend e Bibliotecas
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/>
@@ -48,7 +48,7 @@ Sou Eduardo, desenvolvedor focado em backend e análise de dados, um tanto curio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 </section> 
 
-## Base de Conhecimento
+### Base de Conhecimento
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/>
