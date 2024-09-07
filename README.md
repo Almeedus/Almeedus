@@ -56,8 +56,8 @@ Sou Eduardo, desenvolvedor focado em backend e análise de dados, um tanto curio
           
 ## Estatísticas do Github
 <section>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almeedus&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeedus&theme=dracula&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almeedus&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeedus&theme=dark&layout=compact"/>
 </section>
 
 ## Contatos:
