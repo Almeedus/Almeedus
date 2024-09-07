@@ -1,6 +1,12 @@
 ### Olá, seja bem vindo ao meu perfil.
 Sou Eduardo, desenvolvedor focado em backend e análise de dados, um tanto curioso para com outras tecnologias. Louco por um bom livro (recomendo fortemente "A biblioteca dos sonhos secretos", é incrível), músicas brasileiras pouco conhecidas e uns jogos indies.
 
+## Estatísticas do Github
+<section>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almeedus&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeedus&theme=dark&layout=compact"/>
+</section>
+
 ## Tecnologias que domino
 ### Backend e Bibliotecas
 <section>
@@ -52,12 +58,6 @@ Sou Eduardo, desenvolvedor focado em backend e análise de dados, um tanto curio
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitbook/gitbook-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/>
-</section>
-          
-## Estatísticas do Github
-<section>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Almeedus&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeedus&theme=dark&layout=compact"/>
 </section>
 
 ## Contatos:
