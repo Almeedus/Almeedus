@@ -7,7 +7,7 @@ Sou Eduardo, desenvolvedor focado em backend e análise de dados, um tanto curio
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almeedus&theme=dark&layout=compact"/>
 </section>
 
-## Tecnologias que domino
+## Tecnologias e Ferramentas
 ### Backend e Bibliotecas
 <section>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
